@@ -1,0 +1,116 @@
+[
+    {
+        "category": "T-shirt",
+        "bag": [
+            {
+                "id": "1",
+                "productName": "Women Navy Blue Shoulder Bag",
+                "image": "https://cdn.dsmcdn.com/ty84/product/media/images/20210330/17/76380044/158816826/1/1_org_zoom.jpeg",
+                "color": "Navy Blue - Silver",
+                "price": 23,
+                "fabricType": "Micro Fabric",
+                "lengthHorizontal": "17 cm",
+                "lengthVertical": "21 cm",
+                "width": "6 cm",
+                "other": "Cross with three eyes, snap fastener and zipper.",
+                "season": "No Season",
+                "warrantyPeriodMonth": "24 Month"
+            }
+        ]
+    },
+    {
+        "category": "Shoes",
+        "bag": [
+            {
+                "id": "1",
+                "productName": "Women Red T-Shirt",
+                "image": "https://metintaka.com/images/20180002/large/20200708191422553042.jpg",
+                "color": "Red",
+                "price": 34,
+                "fabricType": "Micro Fabric",
+                "lengthHorizontal": "17 cm",
+                "lengthVertical": "21 cm",
+                "width": "6 cm",
+                "other": "Cross with three eyes, snap fastener and zipper.",
+                "season": "No Season",
+                "warrantyPeriodMonth": "24 Month"
+            }
+        ]
+    },
+    {
+        "category": "watch",
+        "bag": [
+            {
+                "id": "1",
+                "productName": "Women Red T-Shirt",
+                "image": "https://cdn.dsmcdn.com/mnresize/400/-/ty4/product/media/images/20200515/20/1346923/57592550/2/2_org_zoom.jpg",
+                "color": "Red",
+                "price": 34,
+                "fabricType": "Micro Fabric",
+                "lengthHorizontal": "17 cm",
+                "lengthVertical": "21 cm",
+                "width": "6 cm",
+                "other": "Cross with three eyes, snap fastener and zipper.",
+                "season": "No Season",
+                "warrantyPeriodMonth": "24 Month"
+            }
+        ]
+    },
+    {
+        "category": "Bag",
+        "bag": [
+            {
+                "id": "1",
+                "productName": "Women Red T-Shirt",
+                "image": "https://productimages.hepsiburada.net/s/58/600-800/11340147556402.jpg",
+                "color": "Red",
+                "price": 34,
+                "fabricType": "Micro Fabric",
+                "lengthHorizontal": "17 cm",
+                "lengthVertical": "21 cm",
+                "width": "6 cm",
+                "other": "Cross with three eyes, snap fastener and zipper.",
+                "season": "No Season",
+                "warrantyPeriodMonth": "24 Month"
+            }
+        ]
+    },
+    {
+        "category": "care",
+        "bag": [
+            {
+                "id": "1",
+                "productName": "https://productimages.hepsiburada.net/s/44/300-443/10819124789298.jpg",
+                "image": "web adreess",
+                "color": "Red",
+                "price": 34,
+                "fabricType": "Micro Fabric",
+                "lengthHorizontal": "17 cm",
+                "lengthVertical": "21 cm",
+                "width": "6 cm",
+                "other": "Cross with three eyes, snap fastener and zipper.",
+                "season": "No Season",
+                "warrantyPeriodMonth": "24 Month"
+            }
+        ]
+    },
+    {
+        "category": "necklace",
+        "bag": [
+            {
+                "id": "1",
+                "productName": "Women Red T-Shirt",
+                "image": "http://www.anatolyagumus.com/gorseller/urunler/manolya-cicegi-rose-gumus-kadin-kolye-2381/manolya-cicegi-rose-gumus-kadin-kolye.jpg",
+                "color": "Red",
+                "price": 34,
+                "fabricType": "Micro Fabric",
+                "lengthHorizontal": "17 cm",
+                "lengthVertical": "21 cm",
+                "width": "6 cm",
+                "other": "Cross with three eyes, snap fastener and zipper.",
+                "season": "No Season",
+                "warrantyPeriodMonth": "24 Month"
+            }
+        ]
+    }
+]
